@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LuccaWolfric
-- 👀 I’m interested in creating games and fun stuff
-- 🌱 I’m currently learning ruby on rails
+- 👀 I’m currently studying software engineering in college
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on community when i learn to myself at first
 - 📫 My contact email is luccaozorio272@gmail.com
 <!---
