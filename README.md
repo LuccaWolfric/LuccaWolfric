@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Lucca Ozorio 😁
+## Welcome to Lucca Ozorio's Profile 😁
 
  <div>
    <a href="https://github.com/LuccaOzorio">
