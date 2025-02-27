@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil do Lucca Ozorio 😁
 
  <div>
-   <a href="https://github.com/LuccaWolfric">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuccaWolfric&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaWolfric&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <a href="https://github.com/LuccaOzorio">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuccaOzorio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaOzorio&layout=compact&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -24,6 +24,6 @@
   <a href = "mailto:luccaozorio272@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucca-ozorio-nascimento-971244133/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/LuccaWolfric/LuccaWolfric/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LuccaOzorio/LuccaOzorio/blob/output/github-contribution-grid-snake.svg)
 
 </div>
