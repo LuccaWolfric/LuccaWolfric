@@ -24,7 +24,6 @@
   <a href = "mailto:luccaozorio272@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/lucca-ozorio-nascimento-971244133/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
- - name: generate-snake-game-from-github-contribution-grid
-  uses: LuccaOzorio/snk@v3.3.0
+![snake animation](https://github.com/LuccaOzorio/LuccaOzorio/blob/output/github-contribution-grid-snake2.svg)
 
 </div>
